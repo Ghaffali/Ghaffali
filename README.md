@@ -1,9 +1,3 @@
-As an engineer, I am involved in the whole development process. I love all aspects of software, from marketing to coding.
-I am not attached to a particular technology (JAVA, C# ...), to a type of development (BACK-END, FRONT-END ...), to small or large companies.
-My daily aim is to acquire knowledge, and my daily habit is to develop capabilities.
-Photography, Music and Graphic Design have always been my passions.
-I love challenges and especially learning new things Combining high energy and a passion for life, I spend most of my working time in volunteer associations to spread positive change around me.
-
 Full-stack engineer offering 3 years in Banking digital transformation projects, 2 years in the IT industry with a focus on product design and development and 3 years as a teacher in engineering schools.
 Design and implemented Spring Boot Micro-services.
 Hands-on experience in NoSQL technology like MongoDB (CRUD Ops, Indexing, Replication, Aggregation, Sharding, various ops manager activities) experience includes Oracle, PostgreSQL, MySQL, and programming using PL/SQL, SQL
